@@ -1,0 +1,21 @@
+{
+	"siteId": "e8b8be4d-3e18-4da7-88ec-7dddc53dc25b",
+	"geolocation": {
+		"data": {
+			"city": "Mathura",
+			"country": {
+				"code": "IN",
+				"name": "India"
+			},
+			"subdivision": {
+				"code": "UP",
+				"name": "Uttar Pradesh"
+			},
+			"timezone": "Asia/Kolkata",
+			"latitude": 27.4987,
+			"longitude": 77.6669,
+			"postalCode": "281001"
+		},
+		"timestamp": 1756106747113
+	}
+}

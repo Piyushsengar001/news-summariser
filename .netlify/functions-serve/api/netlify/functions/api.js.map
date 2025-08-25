@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": ["../../../../Downloads/news-summariser-ai/netlify/functions/api.ts"],
+  "sourceRoot": "C:/Users/mugiw/AppData/Local/Temp/tmp-46160-eae9p62SIte2",
+  "sourcesContent": ["import { Handler } from \"@netlify/functions\";\r\n\r\nconst handler: Handler = async (event, context) => {\r\n  return {\r\n    statusCode: 200,\r\n    body: JSON.stringify({ message: \"Hello from Netlify Functions + TypeScript!\" }),\r\n  };\r\n};\r\n\r\nexport { handler };\r\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAEA,IAAM,UAAmB,OAAO,OAAO,YAAY;AACjD,SAAO;AAAA,IACL,YAAY;AAAA,IACZ,MAAM,KAAK,UAAU,EAAE,SAAS,6CAA6C,CAAC;AAAA,EAChF;AACF;",
+  "names": []
+}
